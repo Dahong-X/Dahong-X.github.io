@@ -106,11 +106,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "大鸿"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "一个爱琢磨，爱折腾的人."
+  location         : "中国 广州"
+  email            : dahongxxxx@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
